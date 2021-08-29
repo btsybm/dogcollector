@@ -1,3 +1,7 @@
+main {
+  background: rgb(186, 223, 238);
+}
+
 .card-container {
   padding: 0 30px;
   display: flex;
